@@ -8,3 +8,4 @@ Practicing Git remote workflows for team collaboration.
 2. Dealing with remote changes
 3. Force push (and why to avoid it)
 4. Tracking branches
+## Local Work
